@@ -15,5 +15,8 @@ Discover open ports and active devices on the local network using Nmap/Zenmap to
    - **Local Host / PC (`192.168.100.104`):** Ports 135, 139, 445 (SMB/NetBIOS file sharing), Ports 902, 912 (VMware services), Port 5432 (PostgreSQL database)[cite: 6].
 4. Saved output logs into `scan_results.txt` for documentation[cite: 1].
 
+## Visual Evidence
+![Zenmap Scan Output](Screenshot%202026-11-05%20163014.png)
+
 ## Files Included
 * `scan_results.txt` — Full scan output log containing discovered hosts, states, and open ports.
