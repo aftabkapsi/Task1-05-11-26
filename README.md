@@ -20,3 +20,7 @@ Discover open ports and active devices on the local network using Nmap/Zenmap to
 
 ## Files Included
 * `scan_results.txt` — Full scan output log containing discovered hosts, states, and open ports.
+## Key Takeaways
+* **Network Reconnaissance:** Learned how to map local subnet ranges and identify active devices using Nmap/Zenmap[cite: 1].
+* **TCP SYN Scanning:** Understood how stealth port scanning (`-sS`) works by analyzing handshake states without fully establishing connections[cite: 1].
+* **Service Exposure & Attack Surface:** Identified open ports and their corresponding services (such as DNS, HTTP, SMB, and PostgreSQL) to evaluate network exposure risks[cite: 1].
